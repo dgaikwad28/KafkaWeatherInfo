@@ -1,0 +1,8 @@
+fastapi
+kafka-python
+aiokafka
+requests
+uvicorn
+python-dotenv
+pymongo
+jsonschema
